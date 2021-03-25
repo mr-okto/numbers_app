@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Numbers Application</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="button_text">Add</string>
+</resources>
